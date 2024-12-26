@@ -1,0 +1,8 @@
+name: WoolWars
+version: '1.0.0'
+main: org.pritam.WoolWars
+api-version: '1.18'
+prefix: WoolWars
+authors: [ Pritam ]
+description: A light-weight minigame plugin (WoolWars).
+website: github.com/Pritam11638
